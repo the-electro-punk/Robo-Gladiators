@@ -6,7 +6,7 @@ This was meant to be code for a simple battle game where the player decides to a
 
 # How to run the project
 
-Open the index file and simply run the webpage (alt + B) to get the game up and running. All you'll see is a blank screen and a window prompt.
+Open the index file and simply run the webpage (alt + B) to get the game up and running. All you'll see is a blank screen and a window prompt. Type in either FIGHT to begin the battle or SKIP to avoid it (note: due to it's incomplete nature, the battle just ends after each opponent attacks once)
 
 # Credits
 
